@@ -81,16 +81,13 @@ a {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
-        
-        cursor: pointer;
+      cursor: pointer;
 }
 .button:hover {
     background-color: #404BBF
 }
 
-.button :focus {
-    background-color: #404BBF;
-}
+
 /* ----------FEATURES------------ */
 .features-subtitle {
     font-weight: 500;
@@ -110,15 +107,16 @@ a {
 
 /* ----------Our Team------------ */
 .background-team {
-    background-color: #f4f4fd;
+    background-color: #F4F4FD
 }
 
 .team-title {
+    text-align: center;
     font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
-      
+        text-align: center;
         color: #2e2f42;
 }
 
