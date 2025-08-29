@@ -111,6 +111,8 @@ a {
 }
 
 .team-title {
+    background-color: #F4F4FD;
+    text-transform: capitalize;
     text-align: center;
     font-weight: 700;
         font-size: 36px;
@@ -123,6 +125,7 @@ a {
 
     
 .team-name {
+    background-color: #FFFFFF;
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
