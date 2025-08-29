@@ -68,23 +68,23 @@ a {
         font-size: 56px;
         line-height: 1.07;
         letter-spacing: 0.02em;
-        text-align: center;
+
         color: #fff;
 }
 
 .hero button {
-    margin-top: 40px;
-    padding: 14px 28px;
-    background-color: #4d5ae5;
+    background-color: #404BBF;
+   
     font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.02em;
-        color: #fff;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+        
         cursor: pointer;
 }
 .button:hover {
-    color:#404b8f;
+    background-color: #404BBF
 }
 /* ----------FEATURES------------ */
 .features-subtitle {
