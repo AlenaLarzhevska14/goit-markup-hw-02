@@ -194,9 +194,11 @@ a {
 }
 
 .footer-description {
-    font-weight: 400;
+    font-weight: 700;
         font-size: 16px;
+    font-family: "Raleway", sans-serif 
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #f4f4fd;
+        line-height: 1.17;
 }
