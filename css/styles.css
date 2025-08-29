@@ -202,12 +202,13 @@ a {
 
 }
 
-.footer-description {
+.footer-description { 
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
         font-size: 16px;
-    font-family: "Raleway", sans-serif 
         line-height: 1.5;
+        line-height: 1.17;
         letter-spacing: 0.02em;
         color: #f4f4fd;
-        line-height: 1.17;
+        
 }
