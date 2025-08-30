@@ -22,8 +22,7 @@ a {
     line-height: 1.17;
      letter-spacing: 0.03em;
      text-transform: uppercase;
-     color: #2e2f42;
-    }
+     color: #2e2f42;}
 
    .header-logo-part {
     font-family: "Raleway", sans-serif;
@@ -153,7 +152,7 @@ background-color: #404BBF;
 
 /* ----------PORTFOLIO------------ */
 
-.portfolio-title {
+.portfolio-title-our {
     font-family: "Roboto", sans-serif;
      background-color: #FFFFFF;
         font-weight: 700;
@@ -168,7 +167,7 @@ background-color: #404BBF;
 
 
 
-.portfolio-team-name {
+.portfolio-title {
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -192,7 +191,7 @@ background-color: #404BBF;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
         font-size: 18px;
-        line-height: 1.16;
+        line-height: 1.16667;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
