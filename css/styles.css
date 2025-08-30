@@ -152,10 +152,10 @@ background-color: #404BBF;
 }
 
 /* ----------PORTFOLIO------------ */
-.team-section-portfolio {
+.portfolio-section {
     background-color: #FFFFFF;
 }
-.team-title {
+.portfolio-title {
     font-family: "Roboto", sans-serif;
         font-weight: 700;
         font-size: 36px;
@@ -168,7 +168,7 @@ background-color: #404BBF;
 }
 
 
-.team-name {
+.portfolio-name {
     font-weight: 500;
         font-size: 20px;
         line-height: 1.2;
@@ -176,7 +176,7 @@ background-color: #404BBF;
         color: #2e2f42;
 }
 
-.team-role {
+.portfolio-role {
     font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
