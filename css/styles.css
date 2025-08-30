@@ -90,6 +90,7 @@ a {
 
 
 /* ----------FEATURES------------ */
+
 .features-subtitle {
     font-weight: 500;
         font-size: 20px;
@@ -107,12 +108,12 @@ a {
 }
 
 /* ----------Our Team------------ */
-.background-team {
+.team {
     background-color: #F4F4FD
 }
 
 .team-title {
-    background-color: #F4F4FD;
+   
     text-transform: capitalize;
     text-align: center;
     font-weight: 700;
@@ -123,8 +124,11 @@ a {
         color: #2e2f42;
 }
 
-
+.team-role {
+    background-color:  #FFFFFF;
+}
     
+
 .team-name {
     background-color: #FFFFFF;
     font-weight: 500;
@@ -196,7 +200,7 @@ a {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.17;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #f4f4fd;
@@ -205,11 +209,9 @@ a {
 
 .footer-description { 
     font-family: "Raleway", sans-serif;
-    font-weight: 700;
+    font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
-        line-height: 1.17;
         letter-spacing: 0.02em;
         color: #f4f4fd;
-        
 }
