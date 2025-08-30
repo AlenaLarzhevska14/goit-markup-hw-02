@@ -73,7 +73,7 @@ a {
         color: #fff;
 }
 
-.hero button {
+.herobutton {
     font-family: "Roboto", sans-serif;
     background-color: #4d5ae5;
     font-family: "Roboto", sans-serif;
@@ -87,7 +87,9 @@ a {
 .button:hover {
     background-color: #404BBF
 }
-
+.button:focus {
+background-color: #404BBF;
+}
 
 /* ----------FEATURES------------ */
 
