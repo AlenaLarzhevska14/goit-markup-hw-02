@@ -43,18 +43,18 @@ a {
    }
 
 
-   .header-menu-nav-contacts {
+   .header-menu-contacts {
     font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
    }
-   .header-menu-nav-contacts:hover {
-    color: #4d5ae5;
+   .header-menu-contacts:hover {
+    color: #404BBF;
    }    
 .header-menu-link:hover {
-    color: #4d5ae5;
+    color: #404BBF;
    }
   
 
