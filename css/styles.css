@@ -128,8 +128,6 @@ background-color: #404BBF;
         color: #2e2f42;
 }
 
-.team-role {
-    background-color:  #FFFFFF;
 }
     
 
@@ -144,6 +142,7 @@ background-color: #404BBF;
 }
 
 .team-role {
+    background-color: #FFFFFF;
     font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
