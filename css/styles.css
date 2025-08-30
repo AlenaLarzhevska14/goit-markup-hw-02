@@ -153,7 +153,7 @@ background-color: #404BBF;
 
 /* ----------PORTFOLIO------------ */
 
-.portfolio-service {
+.portfolio-section {
     font-family: "Roboto", sans-serif;
      background-color: #FFFFFF;
         font-weight: 700;
@@ -192,7 +192,7 @@ background-color: #404BBF;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
         font-size: 18px;
-        line-height: 1.16667;
+        line-height: 1.16;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5;
