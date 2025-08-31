@@ -130,7 +130,9 @@ background-color: #404BBF;
         color: #2e2f42;
 }
 
-
+.team-item {
+    background-color: #FFFFFF;
+}
 
 .team-name {
     background-color: #FFFFFF;
