@@ -22,17 +22,17 @@ a {
     line-height: 1.17;
      letter-spacing: 0.03em;
      text-transform: uppercase;
-     color: #2e2f42;
+     color: #4d5ae5;
     }
 
-   .header-logo-part {
+   .logo-studio-link {
     font-family: "Raleway", sans-serif;
      font-weight: 700;
      font-size: 18px;
      line-height: 1.16;
      letter-spacing: 0.03em;
      text-transform: uppercase;
-     color: #4d5ae5;
+     color: #2e2f42;
     
 
    }
@@ -60,7 +60,6 @@ a {
    }
   
 
-   
    
 /* ----------HERO------------ */
 .hero {
@@ -127,7 +126,8 @@ background-color: #404BBF;
         text-align: center;
         color: #2e2f42;
 }
- 
+
+
 
 .team-name {
     background-color: #FFFFFF;
