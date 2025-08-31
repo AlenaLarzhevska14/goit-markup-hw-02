@@ -64,7 +64,7 @@ a {
    .header-menu-contacts:hover {
     color: #404BBF;
    }    
-.header-menu-contacts: :focus {
+.header-menu-contacts:focus {
     color: #404BBF;
    }
   
